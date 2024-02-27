@@ -7,6 +7,11 @@ module.exports = {
         "my-rectan": "url('/src/pic/Rectangle44.png')",
       },
     },
+    screens: {
+      "sm": "640px",
+      "12p": "391px",
+      "s20" : "413px"
+    },
   },
   plugins: [],
 };
